@@ -1,1 +1,1 @@
-# YapayZekaVeMakineOgrenmesi11
+# Yapay Zekâ Ve Makine Öğrenmesi 11
